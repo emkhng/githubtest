@@ -1,15 +1,27 @@
-<<<<<<< HEAD
-# githubtest
-<<!DOCTYPE html>
-<html>
-<body>
-
-  <h2>Svg Image download Website</h2>
-
-<p>Download **all** your svg images from the below link</p>
-
-<p><a href="https://freesvg.org/dogface-vector-image">Download Svg</a></p>
-
-</body>
-</html>
-[^1]: Thanks for your download. 
+{"menu": {
+    "header": "SVG Viewer",
+    "items": [
+       {"id": "Open"},
+       {"id": "OpenNew", "label": "Open New"},
+       null,
+       {"id": "ZoomIn", "label": "Zoom In"},
+       {"id": "ZoomOut", "label": "Zoom Out"},
+       {"id": "OriginalView", "label": "Original View"},
+       null,
+       {"id": "Quality"},
+       {"id": "Pause"},
+       {"id": "Mute"},
+       null,
+       {"id": "Find", "label": "Find..."},
+       {"id": "FindAgain", "label": "Find Again"},
+       {"id": "Copy"},
+       {"id": "CopyAgain", "label": "Copy Again"},
+       {"id": "CopySVG", "label": "Copy SVG"},
+       {"id": "ViewSVG", "label": "View SVG"},
+       {"id": "ViewSource", "label": "View Source"},
+       {"id": "SaveAs", "label": "Save As"},
+       null,
+       {"id": "Help"},
+       {"id": "About", "label": "About Adobe CVG Viewer..."}
+    ]
+}}
